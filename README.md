@@ -100,4 +100,4 @@ Task-04-Web-Scraper/
 
 **Organization:** SkillCraft Technology
 **Task:** 04 — Web Scraper
-**Intern:** [Your Name]
+**Intern:** Alma Saji
